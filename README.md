@@ -50,5 +50,5 @@ This repository contains a variety of Python projects developed to demonstrate p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
+   git clone https://github.com/maxmxyz2003/Python.git
    cd python-projects
